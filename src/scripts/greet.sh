@@ -1,5 +1,5 @@
 Greet() {
-    echo devalpha Hello "${PARAM_TO}"
+    echo dev alpha Hello "${PARAM_TO}"
 }
 
 # Will not run if sourced for bats-core tests.
